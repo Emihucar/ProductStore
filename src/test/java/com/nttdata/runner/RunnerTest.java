@@ -13,5 +13,6 @@ import org.junit.runner.RunWith;
         glue = "com.nttdata",
         tags = "@regression"
 )
+
 public class RunnerTest {
 }
