@@ -59,8 +59,6 @@ public class ProductSteps {
 
 
     public boolean isTotalAmountCalculatedCorrectly() {
-        // Implementar lógica para verificar el monto total
-        // Por ejemplo, verificar que el precio en el popup coincide con el esperado
         return true; // Cambia esto a la lógica real
     }
 
